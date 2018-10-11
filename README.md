@@ -1,8 +1,8 @@
 # Project M PAL
-As the offical developement of Project M and therefore the PAL port has been cancelled, we will try porting it.  
+As the offical developement of Project M and therefore the PAL port has been cancelled, we will porting it.  
 Be aware that this is **experimental!** While there shouldn't be any issues when testing on a real console, please do so only if you are experienced enough.
 
-[![Visit our IRC channel](https://i.imgur.com/uBnGtnG.png)](https://discord.gg/BAUU4Vu)
+[![Visit our Discord channel](https://i.imgur.com/uBnGtnG.png)](https://discord.gg/BAUU4Vu)
 # Tools needed
 - A Gecko Code compiler (Recommended: jwiicm)
 - When using Dolphin, a tool that can mount the SD.raw (Recommended: ImDisk)
@@ -28,20 +28,18 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 - **Kirby**: Dash Attack has no Flame Effect. Final Cutter can't attack horizontal. Copy Abilities are crashing the game.
 
 ### Not Working:
-- **Game & Watch**: Attacking crashes the game
-- **Most other characters**: Crash after a few attacks. Mostly aerials.
+- **Characters**: Aerials, Jab, and dash crash the game
 
 # Stages
 - **Metal Cavern**: crashes
 - **Saffron City**: crashes
-- **Wario Land**: crashes
-- **Fountain of Dreams**: Fixed camera (there might be a code for this)
 - **Yoshi's Story**: Collisions do not match
 - (Battlefield: Loads the Brawl version. I am using the netplay version of PM, but normally it should load the Melee version)
 - **Pokemon Stadium**: Glitched. Collisions do not match. Starts as a transformed version.
-- **Defino Secret**: crashes
-- **Kongo Jungle** (rebalanced, might be netplay only): crashes 
 - **Rumble Falls**: crashes
 
 # Specials Thanks
+- Sarg
+- Dantrion
+- Wiiztec
 - PMDT for creating this wonderful mod
