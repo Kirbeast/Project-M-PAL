@@ -2,7 +2,7 @@
 As the offical developement of Project M and therefore the PAL port has been cancelled, we will try porting it.  
 Be aware that this is **experimental!** While there shouldn't be any issues when testing on a real console, please do so only if you are experienced enough.
 
-[![Visit our IRC channel](https://i.imgur.com/LrtjU5c.png)](https://discord.gg/BAUU4Vu)
+[![Visit our IRC channel](https://i.imgur.com/uBnGtnG.png)](https://discord.gg/BAUU4Vu)
 # Tools needed
 - A Gecko Code compiler (Recommended: jwiicm)
 - When using Dolphin, a tool that can mount the SD.raw (Recommended: ImDisk)
