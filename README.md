@@ -31,7 +31,6 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 
 # Stages
 - **Rumble Falls**: crashes
-- **Homerun Contest**: glitchy texutres, floor missing
 
 # Specials Thanks
 - Sarg
