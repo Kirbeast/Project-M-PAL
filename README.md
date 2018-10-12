@@ -30,11 +30,6 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 - **Characters**: Aerials, Jab, and dash crash the game
 
 # Stages
-- **Metal Cavern**: crashes
-- **Saffron City**: crashes
-- **Yoshi's Story**: Collisions do not match
-- (Battlefield: Loads the Brawl version. I am using the netplay version of PM, but normally it should load the Melee version)
-- **Pokemon Stadium**: Glitched. Collisions do not match. Starts as a transformed version.
 - **Rumble Falls**: crashes
 - **Homerun Contest**: glitchy texutres, floor missing
 
