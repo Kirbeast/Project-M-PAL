@@ -1,15 +1,11 @@
-Project M Codes ported: 108/486
-Untested: 8
+Project M Codes ported: 215/486
+Untested: 276
 
 Issues:
 - Noticed that the Stage Select Option String was messed up (german)
-- Item switch lags the game in Dolphin
-- Sometimes there is lag in Dolphin
 
 PAL crashing files:
 /pf
-+-system
-+--common3.pac *it misses a few data sections, which we have to add manually. Brawlbox does not support importing misc byte data.
 +-info2
 +--info.pac
 
@@ -22,35 +18,10 @@ PAL language specific files:
 Custom Music:
 - Works.
 
-Custom Stage: (I am using the data from the netplay version. So thing might be different for the offical 3.6)
-- metal cavern: crashes
-- saffron city: crashes
-- wario land: crashes
-- fountain of dreams has a fixed camera (there might be a code for this)
-- yoshi's story collision does not match
-- (battlefield loads the brawl version, could be a netplay thing)
-- pokestad2 is glitched. collisions are wrong and it starts as a transformed version.
-- defino secret: crashes
-- kongo jungle (rebalanced): crashes 
+Custom Stage:
 - rumble falls: crashes
 
-Characters:
-- mario: attacks seem to work, but randomly crashes the game when performing them. Also something doing an aerial attack with Z changes the camera mode.
-- dk: same as mario
-- link: same as mario
-- samus: when selected, crashes the game
+Characters: Aerials, Jab, and dash crash the game
 - kirby: modified up b doesn't work, no flames with running A
-- fox: fire doesn't make any sound. sometimes the fire sounds get looped over and over. also crashes the game
-- pikachu: crashes the game. does not do any voices.
-- marth: crashes
-- g&w: crashes when attacking
-
-Bugs:
-- Samus crawl doesn't work (not loaded)
-- G&W second jab doesn't work (not loaded)
-
-Mode Idea:
-- Increase Shield Strength and Shield Recovery
-- Decrease Shield Break Stun
-- Increase Smash Attack Multiplier
+- samus: selcting samus at the css crashes the game
 
