@@ -35,4 +35,5 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 - Sarg
 - Dantrion
 - Wiiztec
+- Bero
 - PMDT for creating this wonderful mod
