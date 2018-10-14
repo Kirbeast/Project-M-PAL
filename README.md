@@ -23,7 +23,7 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 
 # Characters
 ### Working:
-- **Kirby**: Dash Attack has no Flame Effect. Final Cutter can't attack horizontal. Copy Abilities are crashing the game.
+- **Kirby**: Dash Attack has no Flame Effect. Final Cutter can't attack horizontal. Some copy abilities are crashing the game.
 
 ### Not Working:
 - **Characters**: Aerials, Jab, and dash crash the game
