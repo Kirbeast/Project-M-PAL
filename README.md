@@ -11,7 +11,6 @@ Be aware that this is **experimental!** While there shouldn't be any issues when
 1. Connect your SD card to your computer. (Dolphin: Go to My Documents\Dolphin\Wii and mount the SD.raw)
 2. Download any version of Project M and copy the content into the root of your SD.
 3. Copy the content of **build** into the root of your SD
-4. Then go into the Folder **projectm** -> **pf**
 
 - **fighter** (For Advanced Users see: Characters)
 - **item** (Not tested yet)
@@ -36,4 +35,5 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 - Sarg
 - Dantrion
 - Wiiztec
+- Bero
 - PMDT for creating this wonderful mod
