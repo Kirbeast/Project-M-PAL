@@ -23,10 +23,12 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 
 # Characters
 ### Working:
+- **Characters**: fighter rel files have not been ported yet, some characters might crash.
 - **Kirby**: Dash Attack has no Flame Effect. Final Cutter can't attack horizontal. Some copy abilities are crashing the game.
 
 ### Not Working:
-- **Characters**: Aerials, Jab, and dash crash the game
+# Characters
+- **Zelda\Sheik**: crash after entrance animation
 
 # Stages
 - **Rumble Falls**: crashes
