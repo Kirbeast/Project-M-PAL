@@ -5,11 +5,16 @@ Be aware that this is **experimental!** While there shouldn't be any issues when
 [![Visit our Discord channel](https://i.imgur.com/uBnGtnG.png)](https://discord.gg/BAUU4Vu)
 [![Trello](https://i.imgur.com/TkvMxNu.png)](https://trello.com/b/RwzE5pmZ/pm-pal)
 
+# Installation
+1. Connect your SD card to your computer. (Dolphin: Go to My Documents\Dolphin\Wii and mount the SD.raw)
+2. Copy the content of **build** into the root of your SD
+3. If you plan on using the hackless method  copy the content of **hackless** into the root of your SD card
+
 # Updating the Codes (Dolphin)
 I've included a Batch file that updates the Codes in the "SD.raw". You need a folder "tools" with jwiicm in it and ImDisk installed.
 
 # Specials Thanks
-- Sarg
+- Sarrg
 - Dantrion
 - Wiiztec
 - Bero
