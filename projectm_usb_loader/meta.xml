@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+<name>Project M USB Loader</name>
+	<version>3.6</version>		\\Configurable SD/USB Loader v70r78.11 by oggzee, usptactical, gannon, Dr. Clipper, R2-D2199, FIX94, airline38, Howard, NiTRo THe DeMoN
+	<release_date>20180513</release_date>
+	<coder>PMDT</coder>	\\Kirbeast, waffeln
+	<short_description>The premier Brawl modification</short_description>
+<long_description>
+Project M is a mod inspired by Super Smash Bros. Melee's gameplay designed to add rich, technical gameplay to a balanced cast of characters while additionally enhancing the speed of play. Project M employs new codes which seamlessly add in new, universal features to the entire cast to add technical variety to all characters.
+
+This is a modified version of CFG USB Loader designed for instantly loading Project M with USB.
+</long_description>
+<ahb_access/>
+<arguments>
+<arg>RSBP01</arg>
+<arg>intro = 0</arg>
+<arg>device = usb</arg>
+<arg>partition = auto</arg>
+<arg>ios = 249</arg>
+<arg>video = system</arg>
+<arg>video_patch = all</arg>
+<arg>ocarina = 1</arg>
+<arg>hooktype = axframe</arg>
+</arguments></app>
