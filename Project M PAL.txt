@@ -1,6 +1,3 @@
-Project M Codes ported: 215/486
-Untested: 276
-
 Issues:
 - Noticed that the Stage Select Option String was messed up (german)
 
@@ -17,11 +14,4 @@ PAL language specific files:
 
 Custom Music:
 - Works.
-
-Custom Stage:
-- rumble falls: crashes
-
-Characters: Aerials, Jab, and dash crash the game
-- kirby: modified up b doesn't work, no flames with running A
-- samus: selcting samus at the css crashes the game
 
