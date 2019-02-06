@@ -15,7 +15,7 @@ Be aware that this is **experimental!** While there shouldn't be any issues when
 
 # USB Loader
 1. Copy **projectm_usb_loader** into the apps folder on the root of your SD
-Instantly launch to PAL PM on both NTSC and PAL Wii.
+- Instantly launch to PAL PM on both NTSC and PAL Wii.
 Use this if you already have USB Loading setup on your Wii.
 You can also install this with Priiloader so you can autoboot to the game when you turn on your Wii.
 

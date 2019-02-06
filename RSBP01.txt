@@ -9,7 +9,7 @@ WiiRD Codes
 ASM Codes
 
 Tourney Mode goes into Rotation Mode [ds22]
-046D895C 48001768
+* 046D895C 48001768
 
 Tracklist Modifer (PS1/PS2 -> PS2, Saffron(PS2) -> PS1) [standardtoaster]
 
@@ -6523,7 +6523,7 @@ Alt Color Engine Data [Dantarion]
 00000000 00000000
 
 Tripping Rate is 0 V2 [ds22, KirbyIsCool]
-04899DC4 FFE0F090
+* 04899DC4 FFE0F090
 
 Triple Jump Glitch Fix [Phantom Wings, spunit262]
 0485422C 38830003
@@ -6786,17 +6786,18 @@ C21E7504 0000000C
 901E0000 00000000
 
 Allow 2x Speed Setting in Training [Magus]
+
 Unrestricted Pause Camera
-040A9424 4E800020
-0410B4EC 38800001
+* 040A9424 4E800020
+* 0410B4EC 38800001
 
 Unrestricted Replay Camera
-0409FFF8 60000000
-040A0000 60000000
-040A0070 FC201890
-040A007C FC600090
-040A0080 FC000890
-040A008C FC001890
+* 0409FFF8 60000000
+* 040A0000 60000000
+* 040A0070 FC201890
+* 040A007C FC600090
+* 040A0080 FC000890
+* 040A008C FC001890
 
 SFX Survival -> Choose Your Character [Standardtoaster]
 0467B118 38802046
@@ -7365,12 +7366,12 @@ Locked Stage Music Fix [Magus]
 040508FC 38000FFF
 
 More Rules & Random Stage Switch are Selectable without Unlocking [Magus]
-0404F648 38600001
-0404F66C 38600001
+* 0404F648 38600001
+* 0404F66C 38600001
 
 All Stages Selectable on Random Stage Switch without Unlocking [Magus]
-046A3174 38000FFF
-046A31F0 38000FFF
+* 046A3174 38000FFF
+* 046A31F0 38000FFF
 
 SD Root=/projectm/
 * 06409728 0000000B
