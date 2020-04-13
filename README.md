@@ -26,7 +26,7 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 - Sarrg
 - J2
 - wiiztec
-- wafflen
+- waffeln
 - Dantrion
 - Standard Toaster
 - Bero
