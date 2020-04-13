@@ -24,7 +24,10 @@ I've included a Batch file that updates the Codes in the "SD.raw". You need a fo
 
 # Specials Thanks
 - Sarrg
+- J2
+- wiiztec
+- wafflen
 - Dantrion
-- Wiiztec
+- Standard Toaster
 - Bero
 - PMDT for creating this wonderful mod
