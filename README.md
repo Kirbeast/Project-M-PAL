@@ -26,8 +26,7 @@
 As the offical developement of Project M and therefore the PAL port has been cancelled, we will port it.  
 Be aware that this is **experimental!** While there shouldn't be any issues when testing on a real console, please do so only if you are experienced enough.
 
-
-> "Should I invite people to this who I think will be interested in this project?"
+> "Should I invite people to this who I think will be interested in this project?"<br/>
 Yes. This is going to be a big challenge and it's going to take a lot of time, talent, and dedication to get this done.
 
 # Installation
