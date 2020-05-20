@@ -27,8 +27,8 @@ As the offical developement of Project M and therefore the PAL port has been can
 Be aware that this is **experimental!** While there shouldn't be any issues when testing on a real console, please do so only if you are experienced enough.
 
 
-> "Should I invite people to this server who I think will be interested in this project?"
-Yes. This is going to be a big challenge and it's going to take a lot of talent and dedication to get this done.
+> "Should I invite people to this who I think will be interested in this project?"
+Yes. This is going to be a big challenge and it's going to take a lot of time, talent, and dedication to get this done.
 
 # Installation
 1. Connect your SD card to your computer. (Dolphin: mount the SD.raw)
