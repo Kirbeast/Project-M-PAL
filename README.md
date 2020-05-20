@@ -21,21 +21,21 @@
       src="https://img.shields.io/github/v/release/Kirbeast/Project-M-PAL?include_prereleases&style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
+  <a href="https://github.com/Kirbeast/Project-M-PAL/commits/master">
     <img
-      alt="GitHub release (latest by date including pre-releases)"
-      src="https://img.shields.io/github/last-commit/Kirbeast/Project-M-PAL?style=for-the-badge"
+      alt="Last Commit"
+      src="https://img.shields.io/github/last-commit/Kirbeast/Project-M-PAL?color=%239cf&style=for-the-badge"
     />
       </a>
-    <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
+    <a href="https://github.com/Kirbeast/Project-M-PAL/issues">
     <img
-      alt="GitHub release (latest by date including pre-releases)"
+      alt="Open Issues"
       src="https://img.shields.io/github/issues-raw/Kirbeast/Project-M-PAL?style=for-the-badge"
     />
   </a>
-    <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
+    <a href="https://github.com/Kirbeast/Project-M-PAL/tree/master/build">
     <img
-      alt="GitHub release (latest by date including pre-releases)"
+      alt="Size"
       src="https://img.shields.io/github/repo-size/Kirbeast/Project-M-PAL?style=for-the-badge"
     />
   </a>
