@@ -18,10 +18,29 @@
   <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
     <img
       alt="GitHub release (latest by date including pre-releases)"
-      src="https://img.shields.io/github/v/release/Kirbeast/Project-M-PAL-react?include_releases&style=for-the-badge"
+      src="https://img.shields.io/github/v/release/Kirbeast/Project-M-PAL?include_prereleases&style=for-the-badge"
+    />
+  </a>
+  <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
+    <img
+      alt="GitHub release (latest by date including pre-releases)"
+      src="https://img.shields.io/github/last-commit/Kirbeast/Project-M-PAL?style=for-the-badge"
+    />
+      </a>
+    <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
+    <img
+      alt="GitHub release (latest by date including pre-releases)"
+      src="https://img.shields.io/github/issues-raw/Kirbeast/Project-M-PAL?style=for-the-badge"
+    />
+  </a>
+    <a href="https://github.com/Kirbeast/Project-M-PAL/releases/latest">
+    <img
+      alt="GitHub release (latest by date including pre-releases)"
+      src="https://img.shields.io/github/repo-size/Kirbeast/Project-M-PAL?style=for-the-badge"
     />
   </a>
 </p>
+
 
 As the offical developement of Project M and therefore the PAL port has been cancelled, we will port it.  
 Be aware that this is **experimental!** While there shouldn't be any issues when testing on a real console, please do so only if you are experienced enough.
