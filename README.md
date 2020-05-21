@@ -33,12 +33,6 @@
       src="https://img.shields.io/github/issues-raw/Kirbeast/Project-M-PAL?style=for-the-badge"
     />
   </a>
-    <a href="https://github.com/Kirbeast/Project-M-PAL/tree/master/build">
-    <img
-      alt="Size"
-      src="https://img.shields.io/github/repo-size/Kirbeast/Project-M-PAL?style=for-the-badge"
-    />
-  </a>
 </p>
 
 
