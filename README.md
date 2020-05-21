@@ -36,7 +36,7 @@
 </p>
 
 
-As the offical developement of Project M and therefore the PAL port has been cancelled, we will port it.  
+As the official development of Project M and therefore the PAL port has been cancelled, we will port it.  
 Be aware that this is **experimental!** While there shouldn't be any issues when testing on a real console, please do so only if you are experienced enough.
 
 > "Should I invite people to this who I think will be interested in this project?"<br/>
@@ -45,13 +45,11 @@ Yes. This is going to be a big challenge and it's going to take a lot of time, t
 # Installation
 1. Connect your SD card to your computer. (Dolphin: mount the SD.raw)
 2. Copy the content of **build** into the root of your SD
-3. If you plan on using the hackless method copy the content of **hackless** into the root of your SD card
 4. Then go into the Folder **projectm** -> **pf** and delete or rename these folders and files:
 
 - **info2** (Crashes Menu and Stadium Modes)
 
 # USB Loader
-1. Copy **projectm_usb_loader** into the apps folder on the root of your SD
 - Instantly launch PAL PM on both NTSC and PAL Wii.
 Use this if you already have USB Loading setup on your Wii.
 You can also install this with Priiloader so you can autoboot to the game when you turn on your Wii.
@@ -60,7 +58,7 @@ You can also install this with Priiloader so you can autoboot to the game when y
 - Standard Toaster
 - Bero
 - wiiztec
-- Dantrion
+- dantarion
 - Sarrg
 - J2
 - waffeln
