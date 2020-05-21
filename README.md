@@ -56,7 +56,7 @@ Yes. This is going to be a big challenge and it's going to take a lot of time, t
 Use this if you already have USB Loading setup on your Wii.
 You can also install this with Priiloader so you can autoboot to the game when you turn on your Wii.
 
-# Specials Thanks
+# Special Thanks
 - Standard Toaster
 - Bero
 - wiiztec
