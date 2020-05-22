@@ -1,0 +1,41 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"first"---
+ft_marth.rel: 1 occurrence changed
+
+
+---"second"---
+ft_marth.rel: 1 occurrence changed
+
+
+---"third"---
+ft_marth.rel: 2 occurrences changed
+
+
+---"fourth"---
+ft_marth.rel: 1 occurrence changed
+
+
+---"fifth"---
+ft_marth.rel: 1 occurrence changed
+
+
+---"sixth"---
+ft_marth.rel: 1 occurrence changed
+
+
+---"eighth"---
+ft_marth.rel: 1 occurrence changed
+
+
+---"tenth"---
+ft_marth.rel: 1 occurrence changed
+
+
+==============
+-GSAR LOG END-
+==============

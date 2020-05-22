@@ -1,0 +1,4 @@
+===Manual hex edits===
+offset AA4C
+
+80 63 00 60 -> 48 00 67 01

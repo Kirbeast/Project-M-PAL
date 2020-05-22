@@ -1,0 +1,86 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"first"---
+ft_captain.rel: 1 occurrence changed
+ft_dedede.rel: 1 occurrence changed
+ft_diddy.rel: 1 occurrence changed
+ft_donkey.rel: 1 occurrence changed
+ft_falco.rel: 1 occurrence changed
+ft_fox.rel: 1 occurrence changed
+ft_gamewatch.rel: 1 occurrence changed
+ft_ganon.rel: 1 occurrence changed
+ft_iceclimber.rel: 1 occurrence changed
+ft_ike.rel: 1 occurrence changed
+ft_kirby.rel: 1 occurrence changed
+ft_koopa.rel: 1 occurrence changed
+ft_link.rel: 1 occurrence changed
+ft_lucario.rel: 1 occurrence changed
+ft_lucas.rel: 1 occurrence changed
+ft_luigi.rel: 1 occurrence changed
+ft_mario.rel: 1 occurrence changed
+ft_marth.rel: 1 occurrence changed
+ft_metaknight.rel: 1 occurrence changed
+ft_ness.rel: 1 occurrence changed
+ft_peach.rel: 1 occurrence changed
+ft_pikachu.rel: 1 occurrence changed
+ft_pikmin.rel: 1 occurrence changed
+ft_pit.rel: 1 occurrence changed
+ft_poke.rel: 1 occurrence changed
+ft_purin.rel: 1 occurrence changed
+ft_robot.rel: 1 occurrence changed
+ft_samus.rel: 1 occurrence changed
+ft_snake.rel: 1 occurrence changed
+ft_sonic.rel: 1 occurrence changed
+ft_toonlink.rel: 1 occurrence changed
+ft_wario.rel: 1 occurrence changed
+ft_wolf.rel: 1 occurrence changed
+ft_yoshi.rel: 1 occurrence changed
+ft_zako.rel: 1 occurrence changed
+ft_zelda.rel: 1 occurrence changed
+
+
+---"second"---
+ft_captain.rel: 1 occurrence changed
+ft_dedede.rel: 1 occurrence changed
+ft_diddy.rel: 1 occurrence changed
+ft_donkey.rel: 1 occurrence changed
+ft_falco.rel: 1 occurrence changed
+ft_fox.rel: 1 occurrence changed
+ft_gamewatch.rel: 1 occurrence changed
+ft_ganon.rel: 1 occurrence changed
+ft_ike.rel: 1 occurrence changed
+ft_kirby.rel: 1 occurrence changed
+ft_koopa.rel: 1 occurrence changed
+ft_link.rel: 1 occurrence changed
+ft_lucario.rel: 1 occurrence changed
+ft_lucas.rel: 1 occurrence changed
+ft_luigi.rel: 1 occurrence changed
+ft_mario.rel: 1 occurrence changed
+ft_marth.rel: 1 occurrence changed
+ft_metaknight.rel: 1 occurrence changed
+ft_ness.rel: 1 occurrence changed
+ft_peach.rel: 1 occurrence changed
+ft_pikachu.rel: 1 occurrence changed
+ft_pikmin.rel: 1 occurrence changed
+ft_pit.rel: 1 occurrence changed
+ft_poke.rel: 1 occurrence changed
+ft_purin.rel: 1 occurrence changed
+ft_robot.rel: 1 occurrence changed
+ft_samus.rel: 1 occurrence changed
+ft_snake.rel: 1 occurrence changed
+ft_sonic.rel: 1 occurrence changed
+ft_toonlink.rel: 1 occurrence changed
+ft_wario.rel: 1 occurrence changed
+ft_wolf.rel: 1 occurrence changed
+ft_yoshi.rel: 1 occurrence changed
+ft_zako.rel: 1 occurrence changed
+ft_zelda.rel: 1 occurrence changed
+
+
+==============
+-GSAR LOG END-
+==============

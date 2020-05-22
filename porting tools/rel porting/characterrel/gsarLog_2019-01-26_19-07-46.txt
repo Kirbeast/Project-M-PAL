@@ -1,0 +1,17 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"first"---
+ft_link.rel: 1 occurrence changed
+
+
+---"second"---
+ft_link.rel: 1 occurrence changed
+
+
+==============
+-GSAR LOG END-
+==============

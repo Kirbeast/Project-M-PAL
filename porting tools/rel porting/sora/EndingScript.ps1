@@ -1,0 +1,1 @@
+.\GSARscript.ps1 "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\sora\ending\ending.txt" "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\sora\ending" "rel" -noBackup

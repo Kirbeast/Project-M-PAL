@@ -1,0 +1,1 @@
+.\GSARscript.ps1 "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\PAL PAC porter\sfxleftovers\sfxtableleftovers.txt" "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\PAL PAC porter\sfxleftovers\fighter" "pac" -noBackup

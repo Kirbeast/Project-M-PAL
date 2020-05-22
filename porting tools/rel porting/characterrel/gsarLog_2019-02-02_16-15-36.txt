@@ -1,0 +1,17 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"first"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"second"---
+ft_lucario.rel: 1 occurrence changed
+
+
+==============
+-GSAR LOG END-
+==============

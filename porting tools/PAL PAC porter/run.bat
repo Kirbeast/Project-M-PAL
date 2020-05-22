@@ -1,0 +1,1 @@
+"PAL PAC porter.exe" apply "..\..\pf\fighter"

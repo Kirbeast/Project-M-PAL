@@ -1,0 +1,186 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"captain"---
+FitCaptain.pac: 1 occurrence changed
+
+
+---"captain"---
+FitCaptain.pac: 2 occurrences changed
+
+
+---"captain"---
+FitCaptain.pac: 2 occurrences changed
+
+
+---"dedede"---
+FitDedede.pac: 1 occurrence changed
+
+
+---"diddy"---
+FitDiddy.pac: 1 occurrence changed
+
+
+---"donkey"---
+FitDonkey.pac: 1 occurrence changed
+
+
+---"falco"---
+FitFalco.pac: 1 occurrence changed
+
+
+---"fox"---
+FitFox.pac: 1 occurrence changed
+
+
+---"gamewatch"---
+FitGamewatch.pac: 1 occurrence changed
+
+
+---"gamewatch"---
+FitGamewatch.pac: 1 occurrence changed
+
+
+---"ganon"---
+FitGanon.pac: 1 occurrence changed
+
+
+---"ike"---
+FitIke.pac: 1 occurrence changed
+
+
+---"kirby"---
+FitKirby.pac: 1 occurrence changed
+
+
+---"koopa"---
+FitKoopa.pac: 1 occurrence changed
+
+
+---"gkoopa"---
+FitGkoopa.pac: 1 occurrence changed
+
+
+---"link"---
+FitLink.pac: 1 occurrence changed
+
+
+---"lucario"---
+FitLucario.pac: 1 occurrence changed
+
+
+---"mewtwo"---
+FitMewtwo.pac: 1 occurrence changed
+
+
+---"lucas"---
+FitLucas.pac: 1 occurrence changed
+
+
+---"luigi"---
+FitLuigi.pac: 1 occurrence changed
+
+
+---"marth"---
+FitMarth.pac: 1 occurrence changed
+
+
+---"roy"---
+FitRoy.pac: 1 occurrence changed
+
+
+---"metaknight"---
+FitMetaknight.pac: 1 occurrence changed
+
+
+---"ness"---
+FitNess.pac: 1 occurrence changed
+
+
+---"peach"---
+FitPeach.pac: 1 occurrence changed
+
+
+---"pikmin"---
+FitPikmin.pac: 1 occurrence changed
+
+
+---"pit"---
+FitPit.pac: 1 occurrence changed
+
+
+---"pokefushigisou"---
+FitPokeFushigisou.pac: 1 occurrence changed
+
+
+---"pokelizardon"---
+FitPokelizardon.pac: 1 occurrence changed
+
+
+---"pokezenigame"---
+FitPokezenigame.pac: 1 occurrence changed
+
+
+---"popo"---
+FitPopo.pac: 1 occurrence changed
+
+
+---"popo"---
+FitPopo.pac: 1 occurrence changed
+
+
+---"purin"---
+FitPurin.pac: 1 occurrence changed
+
+
+---"robot"---
+FitRobot.pac: 1 occurrence changed
+
+
+---"samus"---
+FitSamus.pac: 1 occurrence changed
+
+
+---"sheik"---
+FitSheik.pac: 1 occurrence changed
+
+
+---"snake"---
+FitSnake.pac: 1 occurrence changed
+
+
+---"sonic"---
+FitSonic.pac: 1 occurrence changed
+
+
+---"szerosuit"---
+FitSzerosuit.pac: 1 occurrence changed
+
+
+---"toonlink"---
+FitToonlink.pac: 1 occurrence changed
+
+
+---"wario+warioman"---
+FitWario.pac: 1 occurrence changed
+FitWarioman.pac: 1 occurrence changed
+
+
+---"wolf"---
+FitWolf.pac: 1 occurrence changed
+
+
+---"yoshi"---
+FitYoshi.pac: 1 occurrence changed
+
+
+---"zelda"---
+FitZelda.pac: 1 occurrence changed
+
+
+==============
+-GSAR LOG END-
+==============

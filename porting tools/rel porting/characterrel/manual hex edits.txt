@@ -1,0 +1,8 @@
+===Manual Hex edit== (for some reason the script does not change it)
+
+ft_iceclimbers.rel
+offset 9829
+E4 FB 78 38 A0 00 42 38 DF 01 08 38 E0 00 22 39 1F 01 90 39 20 00 03
+->
+2C CB 78 38 80 23 29 38 A0 00 64 38 E0 00 4A 39 20 00 04 60 00 00 00
+

@@ -1,0 +1,694 @@
+
+RSBE01
+Smash Bros Brawl (US)
+
+Project M - 8/15/15
+
+WiiRD Codes
+
+ASM Codes
+
+Tourney Mode goes into Rotation Mode [ds22]
+* 046DE290 480016F0
+
+Reset multipac stage lock status between classic & all-star matches [wiiztec]
+* C2044A34 00000003
+* 80830008 2C080001
+* 4082000C 3D808059
+* 91EC82F8 00000000
+
+Memory Extention for FighterXResource2 [Dantarion]
+* 04421B54 00091E80
+* 04421B74 00091E80
+* 04421B94 00091E80
+* 04421BB4 00091E80
+* 04421E1C 00091E80
+* 04421E3C 00091E80
+* 04421EBC 00091E80
+* 04421EDC 00091E80
+
+Disable Custom Stages
+* 046B841C 48000040
+
+Stage Choice Random Fix [ds22]
+* 04055444 4080014C
+
+C-Stick Set to Attack or Special Doesn't Also Input Jump [Magus]
+* 04048ACC 418200E4
+* 04048B14 4182009C
+
+Jump & Shield Timers Don't Reset on Button Clear [Magus]
+* 02764BE4 000B60A5
+
+Multiply Frame Speed Modifier Command [Magus]
+* C2724820 00000003
+* 2C1F0002 40A2000C
+* C038004C EFC107B2
+* FC20F090 00000000
+
+General Directional Input Multiplier 0.012500 -> 0.010325 [Magus]
+* 045A17FC 3C292A30
+
+C-Stick Function Directional Input Multiplier 82 -> 100 [Magus]
+* 045A1818 42C80000
+
+Sudden Death Port Fix (Requires Analog C-Stick, L R, & Light-Shield Button Stored as Variables v2.1) [ds22]
+* 0481AD08 80030044
+* 0481AD0C 28000000
+* 0481AD10 41820030
+
+Turbo Mode - Disable Curry Wait and Run [Magus]
+* 04FAC8F0 800000FF
+* 04FAB728 800000FF
+* 04FABB88 800000FF
+
+Powershield Window Doesn't Decrement in Hitlag or 2x Rate in Guard [Magus]
+* 04875164 48000020
+* 04FC2230 00020000
+
+Animation Engine Initialization v2.0 [Almas, Magus]
+* 2057FFF8 00000000
+* 2057FFFC 00000001
+* C0000000 00000009
+* 3D408058 614B1000
+* 806B0000 2C030000
+* 41820030 7C63C670
+* 7C651B78 1D230004
+* 7D6A492E 846B0008
+* 2C030000 41820014
+* 7C63C670 7C032800
+* 4182FFEC 4BFFFFDC
+* 4E800020 00000000
+* 0457FFF8 00000001
+* E0000000 80008000
+
+Article Hitlag Overwritten Branch Addresses
+* 06584300 0000000C
+* 3D40808E 614A537C
+* 4BFFFF08 00000000
+
+Disable Aerial Attack Landing Lag IASA [Magus]
+* 04FAF168 800000FF
+
+Attacker Never has Electric Hitlag [Dantarion, Standardtoaster]
+* 0476E228 4800006C
+
+Disable Vertical Boost on Tumble KB [Dantarion, Magus]
+* 0486DBDC C05E8D40
+
+Melee Edge Grab Box Offset Mechanics & Thin Ledges Fix [Magus]
+* 04B883AC 3F800000
+* C213598C 00000011
+* 90010084 7CC00026
+* 81430064 814A0030
+* 808A0018 3884000C
+* 81230060 7CE802A6
+* 3D008012 61080674
+* 7C074000 4182000C
+* 3884000C 3929003C
+* 7CCFF120 C0610090
+* C0810088 C0A10080
+* C0C40000 C0E9001C
+* C1090024 ECE63828
+* ED083028 40820010
+* FC004090 FD003890
+* FCE00090 EC84402A
+* ECA5382A EC841828
+* ECA5182A D0810088
+* D0A10080 00000000
+
+Enable Trajectory DI Below Tumble [Magus]
+* 048772A0 48000440
+
+Enable ASDI Downwards while Grounded v1.1 [Magus]
+* 04876F88 4800004C
+* 04876698 4800004C
+
+Knockback Reduced 1/3 while Crouching v2.2 [Magus]
+* C2769FCC 00000006
+* 8077003C 8183007C
+* 818C0038 2C0C0011
+* 41A0001C 2C0C0012
+* 41A10014 3D8080B8
+* 618C8348 C02C0000
+* EF7B0072 00000000
+
+Store Damage Absorbed into Variable [Magus]
+* C27531AC 00000003
+* 80BD0070 80A50020
+* 80A50014 D0250018
+* 7F65DB78 00000000
+
+Melee 361 Angle [Magus]
+* 04B87ABC 42300000
+* 04B87AC0 42000000
+* 04B87AC4 42006666
+
+Glancing Blow Threshold is Phantom Hit Threshold [Magus]
+* 04AD7204 3C23D70A
+
+Base Tripping Rate on Action 43 is 0 [Magus]
+* 04B883D4 00000000
+* 04B883D8 00000000
+
+No Elemental Resistances or Weaknesses on Pokemon [Magus]
+* 0476C33C 48000024
+
+Green Fire Thaws [ds22]
+* C288BA4C 00000002
+* 28000005 41820008
+* 2800000F 00000000
+
+Squirtle Side-B Footstool Uses Normal Requirement 0x2713 [Magus]
+* 048590C8 48000024
+* 0489F010 48000090
+
+Grab Mash X Axis Initialization Fix [Magus]
+* 047630DC B3FE000C
+
+Outside Damage Grab Break Uses Current Hit Only [Magus]
+* 047712C8 D03D0028
+
+Slopes do not Affect Landing Velocity [Magus]
+* 04794634 FC401050
+* 0479463C FC001090
+
+Melee Character Pushing Mechanics [Magus]
+* 04F9FF0C 3E99999A
+* 04F9FF10 00000000
+
+IC-Basic and Sensitivity Adjustments
+
+2034 - Total Outside Damage in Grab to Cause a Grab Break [10->6]
+* 04B87B28 40C00000
+
+3120 - Walk Maximum Animation Speed [3->4]
+* 04B8827C 40800000
+
+3122 - Dash, Pivot, & F-Smash Sensitivity [0.8->0.73]
+* 04B88284 3F3AE148
+
+3125 - Dash Exit Momentum Multiplier [0.3->0.225]
+* 04B88290 3E666666
+
+3126 - Run Sensitivity [0.625->0.62]
+* 04B88294 3F1EB852
+
+3133 - Crouch & Tether Drop Sensitivity [-0.66->-0.625]
+* 04B882B0 BF200000
+
+3138 - Tap Jump Sensitivity [0.6625->0.7]
+* 04B882C4 3F333333
+
+3141 - Dash/Run Tap Jump Sensitivity [0.5625->0.635]
+* 04B882D0 3F228F5C
+
+3148 - Spotdodge Sensitivity [-0.7->-0.75]
+* 04B882EC BF400000
+
+3149 - Roll Sensitivity [0.7->0.75]
+* 04B882F0 3F400000
+
+3158 - U-Smash Sensitivity [0.6625->0.73]
+* 04B88314 3F3AE148
+
+3160 - D-Smash Sensitivity [-0.6625->-0.73]
+* 04B8831C BF3AE148
+
+3162 - Fully Charged Smash Multiplier [1.4->1.3667]
+* 04B88324 3FAEEEEF
+
+3167 - Fastfall Sensitivity [-0.6625->-0.665]
+* 04B88338 BF2A3D71
+
+3187 - Platform Drop Sensitivity [-0.6875->-0.71]
+* 04B88388 BF35C28F
+
+3200 - Base Disabled Time on Shield Break [400->490]
+* 04B883BC 43F50000
+
+3232 - Aerial Attack Landing Lag Modifier [0.35->0.1]
+* 04B8843C 3DCCCCCD
+
+3233 - Max Shield Strength [50->60]
+* 04B88440 42700000
+
+3242 - Shield Pushback Multiplier 1 [1.15->0.35]
+* 04B88464 3EB33333
+
+3243 - Shield Pushback Addition Constant [2->0.1]
+* 04B88468 3DCCCCCD
+
+3245 - Maximum Shield Pushback [1.6->70]
+* 04B88470 428C0000
+
+3249 - Shield Pushback ratio [0.7->0]
+* 04B88480 00000000
+
+3251 - Powershield Pushback Multiplier [0.15 -> 0.7]
+* 04B88488 3F333333
+
+3252 - Attacker Shield Pushback Multiplier [0.04->0.07]
+* 04B8848C 3D8F5C29
+
+3253 - Attacker Shield Pushback Minimum [0.025->0.02]
+* 04B88490 3CA3D70A
+
+3256 - Franklin Badge Reflected Damage Multiplier [1.3->0.75]
+* 04B8849C 3F400000
+
+3257 - Franklin Badge Reflected Speed Multiplier [1.3->1.0]
+* 04B884A0 3F800000
+
+3266 - Multiplier for Grab Held Time Added from Total Damage [1.7->2.2]
+* 04B884C4 400CCCCD
+
+3285 - Knockback Multiplier on Wall/Ceiling Bounce [0.85->0.80]
+* 04B88510 3F4CCCCD
+
+3299 - Tumble Wiggle Sensitivity [0.8->0.75]
+* 04B88548 3F400000
+
+3300 - Ceiling Corner Blast KO X Range Multiplier [0.2->0.01]
+* 04B8854C 3C23D70A
+
+3305 - Launch Distance Needed for Low KB SFX [80 -> infinity]
+* 04B88560 7F800000
+
+3306 - Launch Distance Needed for Mid KB SFX [80 -> infinity]
+* 04B88564 7F800000
+
+3307 - Launch Distance Needed for High KB SFX [80 -> infinity]
+* 04B88568 7F800000
+
+3312 - Base Sleep Time [10 -> 3]
+* 04B8857C 40400000
+
+3313 - Base Sleep Time*3 [10 -> 7]
+* 04B88580 40E00000
+
+3315 - Multiplier for sleep time added from KB [25 -> 15]
+* 04B88588 41700000
+
+3386 - Kirby Inhale Time Reduced per Input [10->12]
+* 04B886A4 41400000
+
+3400 - DK Cargo Hold Base Time [100->13]
+* 04B886DC 41500000
+
+3401 - DK Cargo Hold Increase per Damage [5->0.074]
+* 04B886E0 3D978D50
+
+3402 - DK Cargo Hold Reduction per Input [10->1]
+* 04B886E4 3F800000
+
+3412 - Dedede Inhale Star Reduction per Input [12 -> 3]
+* 04B8870C 40400000
+
+3466 - Curry Run Animation Speed Multiplier [2->1]
+* 04B887E4 3F800000
+
+22001 - Lower Angle Threshold for Meteor Smash Range [230->260]
+* 04B87BE8 00000104
+
+22002 - Upper Angle Threshold for Meteor Smash Range [310->280]
+* 04B87BEC 00000118
+
+23033 - Frames between Consecutive Dashes [15->17]
+* 04B88E6C 00000011
+
+23037 - SpotDodge Input Window [4->3]
+* 04B88E7C 00000003
+
+23038 - Roll Input Window [4->3]
+* 04B88E80 00000003
+
+23043 - Reversal Window (B Reversals) [3->4]
+* 04B88E94 00000004
+
+23047 - Ledgesnap Duration [3->0]
+* 04B88EA4 00000000
+
+23050 - Frames between Ledgegrabs [30->29]
+* 04B88EB0 0000001D
+
+23051 - Ledge Invincibility [23->31]
+* 04B88EB4 0000001F
+
+23052 - Tech Window [16->20]
+* 04B88EB8 00000014
+
+23069 - WallJump Timer [130->20]
+* 04B88EFC 00000014
+
+23075 - Frames Between Consecutive Wallclings [60->n/a]
+* 04B88F14 7FFFFFFF
+
+23078 - Powershield Window [4(3)->3(2)]
+* 04B88F20 00000003
+
+23079 - Powershield Drop Window to be Interruptible [4->5]
+* 04B88F24 00000005
+
+23082 - Grab->TurnGrab Window [3->4]
+* 04B88F30 00000004
+
+23085 - Base Held Time in Grabs [90->76]
+* 04B88F3C 0000004C
+
+23087 - Frames After Landing Until KO Ownership is Lost [10800->60]
+* 04B88F44 0000003C
+
+23148 - Curry Effect Duration [780->1200]
+* 04B89038 000004B0
+
+23149 - Frames Between Curry Flames [5->n/a]
+* 04B8903C 7FFFFFFF
+
+F-Smash Sensitivity uses IC-Basic 3220 [0.8->0.8]
+* 04FA97F8 00000C94
+
+Dash within Dash Uses Run Sensitivity [0.80->0.62]
+* 04FAC2B8 00000C36
+
+Threshold to begin tracking distance vs time on stick movements [0.25->0.35]
+* 04AD7528 3EB33333
+* 04AD752C BEB33333
+
+Item Ground Smash U-Throw Velocity [4.1->4.34]
+* 04F9FDBC 408AE148
+
+Link Has a Rapid Jab [Magus]
+* 04B0B2B8 00000001
+
+Samus Has a Crawl
+* 04B0B304 00000001
+
+Game & Watch Has 2 Jabs [Magus]
+* 04B0B634 00000002
+
+Lucario has no wallcling [Standardtoaster]
+* 04B0B9A0 00000000
+
+Lucas Has 2 Jabs [Magus]
+* 04B0B7F4 00000002
+
+Pit cannot glide from jumps [standardtoaster]
+* 04B0B760 00000000
+
+Zard Has 1 Jab [ds22]
+* 04B0B89C 00000001
+
+Zard ThrownType is 2 [ds22]
+* 04B0B8C8 00000002
+
+G-Alloy ThrownType is 1 [ds22]
+* 04B0BE08 00000001
+
+Fire, Electric, Darkness, and Aura Use Intensity 1 [Magus]
+* 06FA6340 00000040
+* 80FA1934 80FA1934
+* 80FA1934 80FA1934
+* 80FA1D4C 80FA1D4C
+* 80FA1D4C 80FA1D4C
+* 80FA2174 80FA2174
+* 80FA2174 80FA2174
+* 80FA262C 80FA262C
+* 80FA262C 80FA262C
+
+Trace Eff-ID Modifiers [ds22]
+* 04407324 00000020
+
+Injections
+
+Swim Jump uses JumpSquat instead of JumpF [camelot]
+* 04FBC518 00000014
+
+Generic Overlay Fix [camelot]
+* 06FA16A4 00000008
+* 21010400 80FA1534
+
+Disable Tether Canceling [standardtoaster]
+* 04FC2C70 00020000
+* 04FC2C78 00020000
+
+TurnGrab Doesn't Skip Animation Frames Out of TurnRun [Magus]
+* 04FAF6D0 800000FF
+
+Shield Button Uses Any Shield Press Requirements [Magus]
+* 04FAC058 0000004F
+* 04FAC020 0000004F
+* 04FAC770 0000004F
+* 04FAD450 0000004F
+* 04FA9EF8 0000004F
+* 04FA9718 0000004F
+* 04FB0DC0 8000004F
+* 04FB24B0 0000004E
+* 04FB2480 0000004E
+* 04FB66C8 0000004E
+
+Wallcling Jump Is Walljump and up Does Nothing [standardtoaster]
+* 04FB5F68 00000067
+* 04FB606C 00020000
+
+Trophy Throws are Smash Throws [Standardtoaster]
+* 04FB8980 00000105
+* 04FB8990 0000010E
+* 04FB89C0 00000106
+* 04FB89D0 0000010F
+* 04FB8A50 00000103
+* 04FB8A60 0000010C
+* 04FB8A70 00000104
+* 04FB8A80 0000010D
+* 04FB8B88 0000010C
+* 04FB8B98 00000103
+* 04FB8BD0 0000010C
+* 04FB8BE0 00000103
+* 04FB8BF0 0000010D
+* 04FB8C00 00000104
+* 04FB8C40 0000010E
+* 04FB8C50 00000105
+* 04FB8C60 0000010F
+* 04FB8C70 00000106
+* 04FB9830 00000107
+
+Glidestop (w/o Jump Removal) [Standardtoaster]
+* 04FB31D0 00000010
+* 04FB3230 00000010
+
+Edge Grabs Disabled During Damage Actions [Magus]
+* 04FB3498 00000000
+
+Aura Sphere Cancel [ds22]
+* C2AA658C 00000007
+* 2C1A001A 41820030
+* 2C1A001F 41820028
+* 2C1A0020 41820020
+* 2C1A0021 41820018
+* 2C1A0118 41820010
+* 2C1A011E 41820008
+* 40820004 00000000
+* 04AA6590 40820040
+
+Ignore Ganon Neutral-B Air Mobility Coding [Magus]
+* 04A60CF8 4E800020
+
+Spacies Up-B Air Friction Fix [Magus]
+* 04A1B848 FC000850
+
+Momentum Capture Data
+* 065A7DD0 00000004
+* FF001000 00000000
+
+Tripping Rate is 0 V2 [ds22, KirbyIsCool]
+* 0489E910 FFE0F090
+
+Hitstun Modifier [Phantom Wings, spunit262]
+* 02B88F48 00030001
+* 04B87AA8 3ECCCCCD
+
+Screen KO Timer & Position Modifier [ds22]
+* 04FA044C 0000003F
+* 04FA0454 0000003E
+* 04FA0458 0000002D
+* 04FA0460 430551EC
+* 04FA046C C1200000
+
+Frozen StarScreen KO goes into regular StarSceen KO V1.1 [ds22]
+* 0487C93C 4800005C
+* 0487CB60 48000058
+
+Alloys can Shield, Dodge & Grab Ledges [ds22]
+* 048A082C 48000088
+* 048A083C 48000078
+* 048A087C 48000038
+
+CSS Selections Preserved in VS Mode [Magus]
+* 046DCA90 4800003C
+
+CSS Record Display Fix [ds22]
+* C268DBCC 00000002
+* 2C1D0028 41820008
+* 2C1D0029 00000000
+* 0468DBD0 4182003C
+
+CSS Fixes for Giga and Company v2 [spunit262]
+* C2684940 00000002
+* 9BB400B8 57BD06BE
+* 2C1D001B 00000000
+* 040AF8D4 546025B6
+* 040AF964 546025B6
+* 040AF830 546025B6
+* 040AF528 546025B6
+* 040AF880 546025B6
+* 040AF848 546025B6
+
+CSS ASM
+* C20AF810 00000003
+* 546025B6 2C030040
+* 4081000C 7C030378
+* 38030001 00000000
+
+Giga Cosmetic Stuff [ds22]
+* 04408AF4 00002039
+* 04455788 0B010CFF
+* 0445578C 14000000
+* 044559D8 2C012CFF
+* 044559DC 14000000
+* 044559E0 00002039
+
+Warioman Cosmetic Stuff [ds22]
+* 04455818 250117FF
+* 04455A28 42012DFF
+* 04455A2C 0B000000
+* 04455A30 00002016
+
+Independent Pokemon Engine +no wreck My Music v2 [spunit262]
+* 06407BD0 0000000E
+* 04030F0D 1E1B1F1B
+* 201B211B 221B0000
+
+SSS Cursor Boundaries [Magus]
+* 046B91F8 41F80000
+* 046B91FC C1F80000
+* 046B9200 41B80000
+* 046B9204 C1BC0000
+-Right: 31, Left: -31, Top: 23, Bottom: -23.5
+
+Default SSS Cursor Position [standardtoaster, SOJ]
+* 046B901C 3E800000
+* 046B9020 C193999A
+
+SD Root=/projectm/
+* 06406920 0000000B
+* 2F70726F 6A656374
+* 6D2F0000 00000000
+
+CPU DI fix [Bero]
+* 04917300 48000040
+* 04B8A40C 00000500
+
+CPUs Don't Ignore Other CPUs to Target Humans [Magus]
+* 04907D60 4800001C
+
+Custom AI Requirement Table[Bero]
+* 04582E6C 00000002
+* 06582E70 00000008
+* 80583000 80583050
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Custom AI Command Table[Bero]
+* 04586FFC 00000001
+* 06587000 00000008
+* 80587200 00000000
+
+Clone Engine Data Saving Fix [ds22]
+* 04952AEC 2C03003A
+* 04952B2C 2C03003A
+* 04B2DD3C 2C0B3068
+* 04B2DD40 2D11356F
+* 06B2DD54 00000018
+* 321D2421 331C1B4B
+* 34132E2D 35222F5B
+* 360B0B17 37202555
+
+Clone Engine Corps Stock Fix [ds22]
+* 04952F14 2C04003A
+
+Result Names [ds22]
+* 0459E03C 526F7900
+* 044564A4 4D657774
+* 044564A8 776F0000
+* 044564AC 00000000
+* 044564B0 00000000
+* 044564B4 00000000
+* 04456624 80456540
+* 0445662C 8059E060
+* 04456540 47696761
+* 04456544 20426F77
+* 04456548 73657200
+* 04456558 57617269
+* 0445655C 6F2D4D61
+* 04456560 6E000000
+
+Clone Soundbank Unload Fix V1 [ds22]
+* C284C9D4 00000012
+* 2C070003 40820084
+* 7C002000 4182007C
+* 2C04002B 40A20010
+* 2C000029 40A2006C
+* 48000064 2C040029
+* 40A20010 2C00002B
+* 40A20058 48000050
+* 2C040026 40A20010
+* 2C000021 40A20044
+* 4800003C 2C040021
+* 40A20010 2C000026
+* 40A20030 48000028
+* 2C040027 40A20010
+* 2C000011 40A2001C
+* 48000014 2C040011
+* 40A20010 2C000027
+* 40A20008 7C802378
+* 7C002000 00000000
+* C284C30C 00000012
+* 2C070003 40820084
+* 7C002000 4182007C
+* 2C04002B 40A20010
+* 2C000029 40A2006C
+* 48000064 2C040029
+* 40A20010 2C00002B
+* 40A20058 48000050
+* 2C040026 40A20010
+* 2C000021 40A20044
+* 4800003C 2C040021
+* 40A20010 2C000026
+* 40A20030 48000028
+* 2C040027 40A20010
+* 2C000011 40A2001C
+* 48000014 2C040011
+* 40A20010 2C000027
+* 40A20008 7C802378
+* 7C002000 00000000
+
+Cosmetic Stuff [ds22]
+* 04455890 0000202A
+* 04455918 270132FF
+* 0445591C 0E000000
+* 04455920 0000201D
+* 044559AC 07000000

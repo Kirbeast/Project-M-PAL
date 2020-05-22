@@ -1,0 +1,34 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"sora_menu_simple_ending NTSC-U"---
+
+
+---"sora_menu_simple_ending NTSC-U"---
+
+
+---"sora_menu_simple_ending"---
+sora_menu_simple_ending.rel: 1 occurrence changed
+
+
+---"sora_menu_simple_ending"---
+sora_menu_simple_ending.rel: 1 occurrence changed
+
+
+---"PMadd"---
+sora_menu_simple_ending.rel: 1 occurrence changed
+
+
+---"BrawlRemove"---
+sora_menu_simple_ending.rel: 1 occurrence changed
+
+
+---"sora_menu_simple_ending NTSC-U"---
+
+
+==============
+-GSAR LOG END-
+==============

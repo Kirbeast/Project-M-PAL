@@ -1,0 +1,1 @@
+.\GSARscript.ps1 "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\FalcoMarioandTransformingCharacters\mario\characterrelmario.txt" "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\FalcoMarioandTransformingCharacters\mario" "rel" -noBackup

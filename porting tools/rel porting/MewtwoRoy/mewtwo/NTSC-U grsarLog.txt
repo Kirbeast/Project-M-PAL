@@ -1,0 +1,65 @@
+
+===============
+-GSAR LOG FILE-
+===============
+
+
+---"first"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"second"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"third"---
+ft_lucario.rel: 2 occurrences changed
+
+
+---"fourth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"fifth"---
+ft_lucario.rel: 2 occurrences changed
+
+
+---"sixth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"seventh"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"eighth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"ninth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"tenth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"eleventh"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"twelth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"thritennth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+---"tenth"---
+ft_lucario.rel: 1 occurrence changed
+
+
+==============
+-GSAR LOG END-
+==============
