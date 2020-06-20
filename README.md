@@ -50,8 +50,7 @@ Yes. This is going to be a big challenge and it's going to take a lot of time, t
 - **info2** (Crashes Menu and Stadium Modes)
 
 # USB Loader
-- Instantly launch PAL PM on both NTSC and PAL Wii.<br/>
-Use this if you already have USB Loading setup on your Wii.<br/>
+- Instantly launch PAL PM on both NTSC and PAL Wii. Use this if you already have USB Loading setup on your Wii.<br/>
 You can also install this with Priiloader so you can autoboot to the game when you turn on your Wii.
 
 # Special Thanks
