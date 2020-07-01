@@ -11,9 +11,8 @@ offset 138E8
 
 80 64 00 D8 -> 48 01 15 B1
 
-offset 35C55  (first one forward)
-
-PAL    1D B6 2C -> 00 00 18
+offset 35C55
+PAL 1D B6 2C -> 00 00 18
 NTSC-U 1D AF 80 -> 00 00 18
 
 offset 24E78 (add)

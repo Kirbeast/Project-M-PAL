@@ -1,1 +1,1 @@
-.\GSARscript.ps1 "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\FalcoMarioandTransformingCharacters\koopa\characterrelkoopa.txt" "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\FalcoMarioandTransformingCharacters\koopa" "rel" -noBackup
+.\GSARscript.ps1 "D:\Projects\PM PAL\Porteing assets\rel porting\FalcoMarioandTransformingCharacters\koopa\characterrelkoopa.txt" "D:\Projects\PM PAL\Porteing assets\rel porting\FalcoMarioandTransformingCharacters\koopa" "rel" -noBackup

@@ -1,1 +1,1 @@
-.\GSARscript.ps1 "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\MewtwoRoy\roy\characterrelroy.txt" "C:\Users\PHANTEKS\Documents\Projects\PM PAL\Porteing assets\rel porting\MewtwoRoy\roy" "rel" -noBackup
+.\GSARscript.ps1 "D:\Projects\PM PAL\Porteing assets\rel porting\MewtwoRoy\roy\characterrelroy.txt" "D:\Projects\PM PAL\Porteing assets\rel porting\MewtwoRoy\roy" "rel" -noBackup

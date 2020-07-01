@@ -6,3 +6,24 @@ E4 FB 78 38 A0 00 42 38 DF 01 08 38 E0 00 22 39 1F 01 90 39 20 00 03
 ->
 2C CB 78 38 80 23 29 38 A0 00 64 38 E0 00 4A 39 20 00 04 60 00 00 00
 
+
+Check the wiki for these characters manual hex edits
+https://github.com/Kirbeast/Project-M-PAL/wiki
+
+ft_dedede.rel
+ft_diddy.rel
+ft_gamewatch.rel
+ft_kirby.rel
+ft_link.rel
+ft_lucario.rel
+ft_lucas.rel
+ft_luigi.rel
+ft_ness.rel
+ft_pikachu.rel
+ft_pikmin.rel
+ft_robot.rel
+ft_samus.rel
+ft_snake.rel
+ft_toonlink.rel
+ft_yoshi.rel
+ft_zako.rel
