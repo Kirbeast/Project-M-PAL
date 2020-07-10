@@ -40,8 +40,12 @@ Be aware that this is **experimental! ** While there shouldn't be any issues whe
 
 > "Should I invite people to those who I think will be interested in this project?
 <br/>Yes. This is going to be a big challenge and it's going to take a lot of time, talent, and dedication to get this done.
+<p align="center">
+  <a href="https://github.com/Kirbeast/Project-M-PAL/wiki">
+    <h3>Check out the wiki for more information!</h3>
+  </a>
+</p>
 
-#### **Check out the [wiki](../../wiki) for more information!**
 # Installation
 1. Connect your SD card to your computer. (Dolphin: mount the SD.raw)
 2. Copy the content of **build** into the root of your SD
